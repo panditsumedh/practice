@@ -1,0 +1,22 @@
+# Web Application Configuration
+
+# Name of the web application
+name = PracticeJavaWebApp
+
+# Version of the web application
+version = 1.0
+
+# Description of the web application
+description = A simple Java web application for practicing Java 17 with Maven.
+
+# Main class or entry point of the web application (assuming it's a web application)
+main-class = com.example.Main
+
+# Dependencies if any (assuming web dependencies)
+# dependencies = 
+
+# Main resources directory (assuming it's a web application)
+resources-dir = src/main/resources
+
+# Test resources directory (assuming it's a web application)
+test-resources-dir = src/test/resources
